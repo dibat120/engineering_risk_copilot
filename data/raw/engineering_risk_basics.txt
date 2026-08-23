@@ -1,0 +1,9 @@
+Engineering risk is the possibility that a system, process, project, or design may fail to achieve its intended technical, safety, cost, schedule, or performance objectives.
+
+Risk is commonly evaluated by considering both the likelihood of an unwanted event and the severity of its consequences.
+
+A simple qualitative risk assessment may classify risk as low, medium, or high based on probability and consequence.
+
+Risk mitigation aims to reduce either the likelihood of the event, the severity of the consequence, or both.
+
+Engineering risk management is an iterative process involving identification, analysis, evaluation, treatment, monitoring, and communication.
