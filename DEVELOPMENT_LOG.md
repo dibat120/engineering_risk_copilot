@@ -201,3 +201,6 @@ robust grounding strategies.
 - M2.5.2 — Grounding Guardrail ✅
 
 **Current milestone: M2 RAG CORE FUNCTIONAL ✅**
+
+August 24, 2026 — Production Deployment Milestone
+Engineering Risk Copilot successfully deployed end-to-end using Streamlit Community Cloud and Render. Public UI successfully communicates with the production FastAPI backend and executes the complete RAG workflow, including semantic retrieval, OpenAI-powered grounded generation, source attribution, similarity scoring, and grounding guardrails.
