@@ -11,8 +11,14 @@ openai==3.3.1
 # and OPENAI_MODEL from the local .env file.
 python-dotenv==1.2.3
 
-# FastAPI web framework for exposing the RAG pipeline as an HTTP API.
+# FastAPI backend
 fastapi==0.141.1
 
-# ASGI server used to run the FastAPI application.
+# ASGI server for FastAPI
 uvicorn==0.52.4
+
+# Streamlit portfolio interface
+streamlit==1.62.0
+
+# HTTP client used by Streamlit to communicate with FastAPI
+requests==2.34.2
