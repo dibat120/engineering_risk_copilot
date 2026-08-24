@@ -10,3 +10,9 @@ openai==3.3.1
 # Loads environment variables such as OPENAI_API_KEY
 # and OPENAI_MODEL from the local .env file.
 python-dotenv==1.2.3
+
+# FastAPI web framework for exposing the RAG pipeline as an HTTP API.
+fastapi==0.141.1
+
+# ASGI server used to run the FastAPI application.
+uvicorn==0.52.4
