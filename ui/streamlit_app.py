@@ -13,7 +13,7 @@ import streamlit as st
 # variable pointing to the public FastAPI backend on Render.
 API_BASE_URL = os.getenv(
     "ENGINEERING_RISK_API_URL",
-    "http://127.0.0.1:8000",
+    "https://engineering-risk-copilot.onrender.com",
 )
 
 ASK_ENDPOINT = f"{API_BASE_URL}/ask"
